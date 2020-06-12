@@ -1,6 +1,6 @@
 # How Much Can I Trust You? — Quantifying Uncertainties in Explaining Neural Networks
 
-![](mnist_example.gif)
+![](mnist_example.gif | height=200)
 
 ## Requirements
 
