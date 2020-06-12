@@ -16,10 +16,10 @@ All experiments were conducted with Python 3.6.9.
 
 ## Code structure:
 
-The code is structured in a following way:
+The code is structured in the following way:
 
   * B-LRP MNIST
     This notebook consists of the code for visualization of B-LRP method for MNIST
 
-  * B-LRP MNIST
+  * B-LRP Imagenet
     This notebook consists of the code for visualization of B-LRP method for Imagenet
