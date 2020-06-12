@@ -1,5 +1,7 @@
 # How Much Can I Trust You? — Quantifying Uncertainties in Explaining Neural Networks
 
+![](mnist_example.gif)
+
 ## Requirements
 
 To be able to run the code properly, please download the imagenet subset data by following link: https://www.dropbox.com/s/hbo7udo721igpnd/imagenet_data.zip?dl=0 and copy the 'imagenet_data' folder to a directory with notebooks
