@@ -1,5 +1,6 @@
 # B-LRP 
 # How much can I trust you? - Quantifying Uncertainties in Explaining Neural Networks
+https://arxiv.org/abs/2006.09000
 
 We provide Pytorch implementations for our paper How Much Can I Trust You? — Quantifying Uncertainties in Explaining Neural Networks
 
@@ -26,3 +27,14 @@ The code is structured in the following way:
 
   * B-LRP Imagenet
     This notebook consists of the code for visualization of B-LRP method for Imagenet
+
+## Cite this paper:
+
+To cite this paper use following Bibtex annotation:
+
+	@article{bykov2020much,
+	  title={How Much Can I Trust You?--Quantifying Uncertainties in Explaining Neural Networks},
+	  author={Bykov, Kirill and H{\"o}hne, Marina M-C and M{\"u}ller, Klaus-Robert and Nakajima, Shinichi and Kloft, Marius},
+	  journal={arXiv preprint arXiv:2006.09000},
+	  year={2020}
+	}
