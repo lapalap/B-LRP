@@ -1,4 +1,5 @@
-# B-LRP -  How much can I trust you? - Quantifying Uncertainties in Explaining Neural Networks
+# B-LRP 
+# How much can I trust you? - Quantifying Uncertainties in Explaining Neural Networks
 
 We provide Pytorch implementations for our paper How Much Can I Trust You? — Quantifying Uncertainties in Explaining Neural Networks
 
